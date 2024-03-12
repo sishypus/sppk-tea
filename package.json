@@ -1,0 +1,22 @@
+{
+  "name": "sppk-tea",
+  "version": "1.1.2",
+  "description": "testong",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sishypus/sppk-tea.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Sishypus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sishypus/sppk-tea/issues"
+  },
+  "homepage": "https://github.com/sishypus/sppk-tea#readme"
+}
